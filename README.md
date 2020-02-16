@@ -1,2 +1,2 @@
 # MyApp
-Simple application
+Simple application to prompt your name
